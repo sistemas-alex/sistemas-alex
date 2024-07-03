@@ -40,8 +40,8 @@ Soy un Desarrollador Full-Stack y Especialista en Análisis de Datos con una só
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/></a>
 <a href="https://wordpress.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/></a>
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI"/></a>
-<a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://pentapps.com/wp-content/uploads/2023/09/logo-BI.png" width="40" height="40" alt="Power BI"/></a>
+<a href="https://www.tableau.com/" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="40" height="40" alt="Tableau"/></a>
 
 
 # 💻 Proyectos
