@@ -12,6 +12,7 @@ Soy un Desarrollador Full-Stack y Especialista en Análisis de Datos con una só
 [![Currículo](https://cdn-icons-png.flaticon.com/512/3286/3286234.png)](https://www.canva.com/design/DAGJqZ7o1JY/wEGl8TbxcsWagvnxxy_8Ug/view?utm_content=DAGJqZ7o1JY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
+
 # 💻 Skills:
 
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></a>
