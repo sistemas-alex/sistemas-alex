@@ -13,7 +13,6 @@ Soy un Desarrollador Full-Stack y Especialista en Análisis de Datos con una só
 
 
 # 💻 Skills:
-# 💻 Skills:
 
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></a>
