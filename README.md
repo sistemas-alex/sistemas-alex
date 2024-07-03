@@ -5,6 +5,7 @@ Soy un Desarrollador Full-Stack y Especialista en Análisis de Datos con una só
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
+</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexander-olmedo-desarrollador-web-analista-de-datos/) 
