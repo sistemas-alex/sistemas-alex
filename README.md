@@ -21,7 +21,7 @@ Soy un Desarrollador Full-Stack y Especialista en Análisis de Datos con una só
 - **Descripción:** El proyecto se enfoca en crear un reporte financiero dinámico y detallado que analiza las ventas de la organización utilizando Power BI. La visualización muestra datos clave relacionados con las ventas, como ingresos totales, ventas por producto a lo largo del tiempo, rentabilidad y análisis de desempeño de los vendedores. Proporciona a los líderes financieros y gerentes de ventas una herramienta efectiva para monitorear el rendimiento de las ventas, identificar oportunidades de crecimiento y tomar decisiones estratégicas.
 
 ### Tablero Informe Recursos Humanos
-[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-%23008080.svg?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiOWE0MjRmODYtMmQ1MC00ZDE0LWE1MTUtNTk4ZDYyNTlkMGM5IiwidCI6ImYxZTMxNmJhLTQ2MWQtNDNmOC05MjZiLWE3ZTM5NDYxYzBkOSJ9)
+[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-%23008080.svg?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMGE0Nzc0MDAtODcwOC00M2M1LTg5MjItMjdlNDRiYjA5NTQ1IiwidCI6ImYxZTMxNmJhLTQ2MWQtNDNmOC05MjZiLWE3ZTM5NDYxYzBkOSJ9)
 
 - **Descripción:** El proyecto se centra en crear una visualización dinámica y detallada de los datos de recursos humanos de la organización utilizando Power BI. Muestra información crucial sobre el personal, como la distribución por departamento, la antigüedad, la rotación y el rendimiento. Proporciona a los líderes de recursos humanos y gerentes una herramienta efectiva para analizar y comprender el panorama general del talento de la organización, identificar áreas de mejora y tomar decisiones estratégicas.
 
