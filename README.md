@@ -29,7 +29,9 @@ Soy un Desarrollador Full-Stack y Especialista en Análisis de Datos con una só
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/></a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40" alt="Adobe Illustrator"/></a>
-<a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Canva_Logo.svg/640px-Canva_Logo.svg.png" width="40" height="40" alt="Canva"/></a>
+
+<a href="https://www.canva.com/" target="_blank"><img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="40" height="40" alt="Canva"/></a>
+
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Adobe Photoshop"/></a>
 <a href="https://matplotlib.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></a>
