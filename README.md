@@ -9,7 +9,7 @@ Soy un Desarrollador Full-Stack y Especialista en Análisis de Datos con una só
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-olmedo-desarrollador-web-analista-de-datos/) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/573123322338) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexanderolmedo100@gmail.com)
-
+[![Currículo](https://ruta-de-tu-imagen.com/imagen-curriculum.png)](https://www.canva.com/design/DAGJqZ7o1JY/wEGl8TbxcsWagvnxxy_8Ug/view?utm_content=DAGJqZ7o1JY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 # 💻 Skills:
