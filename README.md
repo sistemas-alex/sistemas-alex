@@ -1,7 +1,13 @@
 # 💫 About Me:
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Blogger...;Active+Open+Source+Contributor..."/>
 
-Soy un Desarrollador Full-Stack y Especialista en Análisis de Datos con una sólida trayectoria en la creación de aplicaciones web y manejo de sistemas de la información<br><br>Mi pericia en el desarrollo integral me permite diseñar e implementar soluciones de vanguardia, mientras que mis capacidades analíticas me habilitan para descubrir insights valiosos que contribuyen a la toma de decisiones estratégicas.<br><br>Mi formación en Organización de Archivos complementa mis habilidades, garantizando una gestión eficaz y ordenada de los datos.<br><br>Mi objetivo es contribuir con soluciones tecnológicas innovadoras y desempeñar un papel activo en proyectos desafiantes, siempre en un entorno colaborativo y dinámico. Domino lenguajes de programación como Python, HTML, JavaScript, Java, Node.js y CSS, y tengo experiencia en análisis de datos con Python, utilizando herramientas como Pandas, Matplotlib, Plotly y NumPy, así como en el uso de plataformas de visualización de datos como Power BI y Tableau. Estoy familiarizado con entornos y herramientas de desarrollo como Visual Studio Code y Jupyter Notebook, y poseo conocimientos en tecnologías de IT que respaldan servicios técnicos y administrativos.
+I am a Full-Stack Developer and Data Analysis Specialist with a strong track record in creating web applications and managing complex information.
+
+My expertise in full-stack development allows me to design and implement cutting-edge solutions, while my analytical skills enable me to uncover valuable insights that contribute to strategic decision-making.
+
+My background in File Organization complements my skills, ensuring effective and organized data management. My goal is to contribute to innovative technological solutions and play an active role in challenging projects, always in a collaborative and dynamic environment. I am proficient in programming languages such as Python, HTML, JavaScript, Java, Node.js, and CSS. I have experience in data analysis with Python, using tools like Pandas, Matplotlib, Plotly, and NumPy, as well as in data visualization platforms such as Power BI and Tableau.
+
+I am familiar with development environments and tools like Visual Studio Code and Jupyter Notebook, and I have knowledge of IT technologies that support technical and administrative 
 
 </br>
 
