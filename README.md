@@ -53,7 +53,7 @@ I am familiar with development environments and tools like Visual Studio Code an
 ## Proyectos Realizados en Power BI
 
 ### Tablero Informe Financiero
-[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-%23008080.svg?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZmZiY2Y0MzMtODEzOS00NDYzLTkyMzItNjI3MTMxNzcwM2UwIiwidCI6ImYxZTMxNmJhLTQ2MWQtNDNmOC05MjZiLWE3ZTM5NDYxYzBkOSJ9)
+[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-%23008080.svg?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZDdmZjNlYmUtODQyZC00M2NiLTgyYjgtNTBjOTc5YWU2YTM5IiwidCI6ImYwNWNiMDJkLTM0OTctNGY2Mi1hNmJjLTI4M2EwMmQyZjZjZCIsImMiOjR9)
 
 - **Descripción:** El proyecto se enfoca en crear un reporte financiero dinámico y detallado que analiza las ventas de la organización utilizando Power BI. La visualización muestra datos clave relacionados con las ventas, como ingresos totales, ventas por producto a lo largo del tiempo, rentabilidad y análisis de desempeño de los vendedores. Proporciona a los líderes financieros y gerentes de ventas una herramienta efectiva para monitorear el rendimiento de las ventas, identificar oportunidades de crecimiento y tomar decisiones estratégicas.
 
