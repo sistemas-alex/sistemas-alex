@@ -1,13 +1,15 @@
 # 💫 About Me:
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Blogger...;Active+Open+Source+Contributor..."/>
 
-I am a Full-Stack Developer and Data Analysis Specialist with a strong track record in creating web applications and managing complex information.
+Systems Engineer and Data Analysis Specialist with experience in full-stack development and efficient information management.
 
-My expertise in full-stack development allows me to design and implement cutting-edge solutions, while my analytical skills enable me to uncover valuable insights that contribute to strategic decision-making.
+I have participated in the creation of modern web applications and the implementation of data-driven solutions that support strategic decision-making.
 
-My background in File Organization complements my skills, ensuring effective and organized data management. My goal is to contribute to innovative technological solutions and play an active role in challenging projects, always in a collaborative and dynamic environment. I am proficient in programming languages such as Python, HTML, JavaScript, Java, Node.js, and CSS. I have experience in data analysis with Python, using tools like Pandas, Matplotlib, Plotly, and NumPy, as well as in data visualization platforms such as Power BI and Tableau.
+I am proficient in programming languages such as Python, JavaScript, Java, Node.js, HTML, and CSS. I use tools like Pandas, NumPy, Matplotlib, Plotly, Power BI, and Tableau for data analysis and visualization.
 
-I am familiar with development environments and tools like Visual Studio Code and Jupyter Notebook, and I have knowledge of IT technologies that support technical and administrative 
+I also work with development environments such as Visual Studio Code and Jupyter Notebook, and I have experience in technical support and information technologies.
+
+I aim to contribute to innovative projects within dynamic teams, where I can combine web development and data analysis to create high-impact solutions.
 
 </br>
 
