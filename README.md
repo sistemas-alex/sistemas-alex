@@ -1,15 +1,11 @@
 # 💫 About Me:
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Blogger...;Active+Open+Source+Contributor..."/>
 
-Systems Engineer and Data Analysis Specialist with experience in full-stack development and efficient information management.
+Intermediate Web Developer and Data Analyst with experience in building modern web applications and using data to support decision-making.
 
-I have participated in the creation of modern web applications and the implementation of data-driven solutions that support strategic decision-making.
+Skilled in JavaScript, Python, Node.js, HTML, and CSS, with knowledge of data analysis and visualization tools such as Pandas, NumPy, Matplotlib, Power BI, and Tableau. Experienced with development environments like Visual Studio Code and Jupyter Notebook.
 
-I am proficient in programming languages such as Python, JavaScript, Java, Node.js, HTML, and CSS. I use tools like Pandas, NumPy, Matplotlib, Plotly, Power BI, and Tableau for data analysis and visualization.
-
-I also work with development environments such as Visual Studio Code and Jupyter Notebook, and I have experience in technical support and information technologies.
-
-I aim to contribute to innovative projects within dynamic teams, where I can combine web development and data analysis to create high-impact solutions.
+Motivated to continue growing professionally by combining web development and data analytics to deliver practical and effective solutions.
 
 </br>
 
