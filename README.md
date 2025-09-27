@@ -32,9 +32,6 @@ I aim to contribute to innovative projects within dynamic teams, where I can com
 <a href="https://insomnia.rest/" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="40" height="40" alt="Insomnia"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/></a>
 
-
-
-
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/></a>
 <a href="https://www.canva.com/" target="_blank"><img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="40" height="40" alt="Canva"/></a>
