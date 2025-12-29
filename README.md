@@ -40,7 +40,8 @@ Motivated to continue growing professionally by combining web development and da
 <a href="https://www.tableau.com/" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="70" height="40" alt="Tableau"/></a>
 
 
-# 💻 Proyectos
+# 📊 Proyectos Power BI
+
 
 ## Proyectos Realizados en Power BI
 
@@ -56,7 +57,7 @@ Motivated to continue growing professionally by combining web development and da
 - **Descripción:** El proyecto se centra en crear una visualización dinámica y detallada de los datos de recursos humanos de la organización utilizando Power BI. Muestra información crucial sobre el personal, como la distribución por departamento, la antigüedad, la rotación y el rendimiento. Proporciona a los líderes de recursos humanos y gerentes una herramienta efectiva para analizar y comprender el panorama general del talento de la organización, identificar áreas de mejora y tomar decisiones estratégicas.
 
 
-# 💻 Proyectos
+# 💻 Proyectos de Programación / Desarrollo
 
 ## Proyectos Frontend Web
 
