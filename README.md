@@ -53,9 +53,19 @@ Motivated to continue growing professionally by combining web development and da
 [![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-%23008080.svg?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMTAyZWMzZWEtMjBlYi00MGViLThmYWYtZDc0MWEyOTFlNTI0IiwidCI6ImYwNWNiMDJkLTM0OTctNGY2Mi1hNmJjLTI4M2EwMmQyZjZjZCIsImMiOjR9)
 
 
-
-
 - **Descripción:** El proyecto se centra en crear una visualización dinámica y detallada de los datos de recursos humanos de la organización utilizando Power BI. Muestra información crucial sobre el personal, como la distribución por departamento, la antigüedad, la rotación y el rendimiento. Proporciona a los líderes de recursos humanos y gerentes una herramienta efectiva para analizar y comprender el panorama general del talento de la organización, identificar áreas de mejora y tomar decisiones estratégicas.
+
+
+# 💻 Proyectos
+
+## Proyectos Frontend Web
+
+### Aplicación Web – Majovit
+[![Ver en Lovable](https://img.shields.io/badge/Ver%20App%20(Lovable)-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://majovit-magic-spark.lovable.app)
+[![Ver en GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://sistemas-alex.github.io/majovit/)
+
+- **Descripción:** Aplicación web frontend desarrollada con Vite y React. El proyecto fue creado inicialmente utilizando la herramienta Lovable como apoyo para la generación de la interfaz, y posteriormente se realizaron ajustes manuales en la estructura del proyecto, configuración de Vite y despliegue para su publicación en GitHub Pages. La aplicación cuenta con un diseño moderno, enfoque responsive y buenas prácticas de organización del código.
+
 
 ## Proyectos Realizados en HTML, PHP, CSS, JavaScript y Wordpress
 
