@@ -62,10 +62,21 @@ Motivated to continue growing professionally by combining web development and da
 ## Proyectos Frontend Web
 
 ### Aplicación Web – Majovit
-[![Ver en Lovable](https://img.shields.io/badge/Ver%20App%20(Lovable)-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://majovit-magic-spark.lovable.app)
+
+[![Ver en Lovable](https://img.shields.io/badge/Ver%20App%20(Lovable)-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://majovit.lovable.app/)
 [![Ver en GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://sistemas-alex.github.io/majovit/)
 
-- **Descripción:** Aplicación web frontend desarrollada con Vite y React. El proyecto fue creado inicialmente utilizando la herramienta Lovable como apoyo para la generación de la interfaz, y posteriormente se realizaron ajustes manuales en la estructura del proyecto, configuración de Vite y despliegue para su publicación en GitHub Pages. La aplicación cuenta con un diseño moderno, enfoque responsive y buenas prácticas de organización del código.
+**Descripción:**  
+Aplicación web frontend desarrollada con **Vite** y **React**. El proyecto fue creado inicialmente utilizando la herramienta **Lovable** como apoyo para la generación de la interfaz. Posteriormente se realizaron ajustes manuales en la estructura del proyecto, la configuración de Vite y el proceso de despliegue para su publicación en **GitHub Pages**.
+
+La aplicación cuenta con un diseño moderno, enfoque **responsive** y buenas prácticas de organización del código.
+
+**Tecnologías utilizadas:**
+- React
+- Vite
+- JavaScript
+- CSS
+- GitHub Pages
 
 
 ## Proyectos Realizados en HTML, PHP, CSS, JavaScript y Wordpress
