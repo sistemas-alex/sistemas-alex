@@ -1,11 +1,11 @@
 # 💫 About Me:
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Blogger...;Active+Open+Source+Contributor..."/>
 
-Intermediate Web Developer and Data Analyst with experience in building modern web applications and using data to support decision-making.
+Data Analyst and Web Developer with experience in data analysis, web development, database management, and process automation.
 
-Skilled in JavaScript, Python, Node.js, HTML, and CSS, with knowledge of data analysis and visualization tools such as Pandas, NumPy, Matplotlib, Power BI, and Tableau. Experienced with development environments like Visual Studio Code and Jupyter Notebook.
+Skilled in Excel, Power BI, SQL, and Python for data analysis, visualization, dashboards, and reporting. Experienced in web development using PHP, JavaScript, HTML, and CSS, as well as MySQL for database management.
 
-Motivated to continue growing professionally by combining web development and data analytics to deliver practical and effective solutions.
+Focused on building practical digital solutions and transforming data into useful insights to support decision-making, while continuously expanding my skills in data analytics and web technologies.
 
 </br>
 
