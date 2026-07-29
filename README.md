@@ -10,34 +10,60 @@ Focused on building practical digital solutions and transforming data into usefu
 </br>
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/alexander-olmedo-desarrollador-web-analista-de-datos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="65" height="25"></a> 
-<a href="https://wa.me/573105247136" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" width="65" height="25"></a> 
-<a href="mailto:alexanderolmedo100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" width="50" height="25"></a>
+
+<p>
+  <a href="https://www.linkedin.com/in/alexander-olmedo-desarrollador-web-analista-de-datos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="25" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/573105247136">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" height="25" alt="WhatsApp">
+  </a>
+  <a href="mailto:alexanderolmedo100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="25" alt="Email">
+  </a>
+</p>
 
 
 
 # 💻 Skills:
 
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/></a>
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda"/></a>
-<a href="https://insomnia.rest/" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="40" height="40" alt="Insomnia"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/></a>
+### 📊 Data Analytics
 
-<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/></a>
-<a href="https://www.canva.com/" target="_blank"><img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="40" height="40" alt="Canva"/></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
-<a href="https://wordpress.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/></a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy">
+  <img src="https://pentapps.com/wp-content/uploads/2023/09/logo-BI.png" height="40" alt="Power BI">
+</p>
 
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://pentapps.com/wp-content/uploads/2023/09/logo-BI.png" width="65" height="40" alt="Power BI"/></a>
-<a href="https://www.tableau.com/" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="70" height="40" alt="Tableau"/></a>
+### 🗄️ Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB">
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress">
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda">
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="40" height="40" alt="Insomnia">
+</p>
+
+
 
 
 # 📊 Proyectos Power BI
