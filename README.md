@@ -1,33 +1,28 @@
-# 💫 About Me:
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Blogger...;Active+Open+Source+Contributor..."/>
+# 👋 Hola, soy Alexander Olmedo
 
-Data Analyst and Web Developer with experience database management, and process automation.
+**Desarrollador Web Full Stack y Analista de Datos** · Tecnólogo en Sistemas de Información · Bogotá, Colombia
 
-Skilled in Excel, Power BI, SQL, and Python for data analysis, visualization, dashboards, and reporting. Experienced in web development using PHP, JavaScript, HTML, and CSS, as well as MySQL for database management.
+Construyo aplicaciones web y tableros de datos que ayudan a trabajar mejor y a decidir con información. Trabajo con PHP, JavaScript, React y MySQL en desarrollo web, y con Power BI, SQL y Python en análisis de datos. Uso herramientas de IA para acelerar el desarrollo, pero reviso, ajusto y entiendo el código que entrego.
 
-Focused on building practical digital solutions and transforming data into useful insights to support decision-making, while continuously expanding my skills in data analytics and web technologies.
+> **English:** Full Stack Web Developer and Data Analyst based in Bogotá, Colombia. I build web apps and Power BI dashboards that turn data into decisions.
 
-</br>
-
-## 🌐 Socials:
+## 🌐 Contacto
 
 <p>
-  <a href="https://www.linkedin.com/in/alexander-olmedo-desarrollador-web-analista-de-datos/">
+  <a href="https://www.linkedin.com/in/alexanderolmedo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="25" alt="LinkedIn">
-  </a>
-  <a href="https://wa.me/573105247136">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" height="25" alt="WhatsApp">
   </a>
   <a href="mailto:alexanderolmedo100@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="25" alt="Email">
   </a>
+  <a href="https://alexanderolmedo.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio-000000?logo=vercel&logoColor=white" height="25" alt="Portafolio">
+  </a>
 </p>
 
+# 💻 Habilidades
 
-
-# 💻 Skills:
-
-### 📊 Data Analytics
+### 📊 Análisis de datos
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python">
@@ -36,14 +31,14 @@ Focused on building practical digital solutions and transforming data into usefu
   <img src="https://pentapps.com/wp-content/uploads/2023/09/logo-BI.png" height="40" alt="Power BI">
 </p>
 
-### 🗄️ Databases
+### 🗄️ Bases de datos
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB">
 </p>
 
-### 🌐 Web Development
+### 🌐 Desarrollo web
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5">
@@ -52,10 +47,12 @@ Focused on building practical digital solutions and transforming data into usefu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" alt="Angular">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress">
 </p>
 
-### 🛠️ Tools
+### 🛠️ Herramientas
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub">
@@ -63,85 +60,59 @@ Focused on building practical digital solutions and transforming data into usefu
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/insomnia.svg" width="40" height="40" alt="Insomnia">
 </p>
 
+# 📊 Proyectos de análisis de datos
 
+### Tablero de Informe Financiero (Power BI)
+[![Ver tablero](https://img.shields.io/badge/Ver%20tablero-%23008080.svg?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZDdmZjNlYmUtODQyZC00M2NiLTgyYjgtNTBjOTc5YWU2YTM5IiwidCI6ImYwNWNiMDJkLTM0OTctNGY2Mi1hNmJjLTI4M2EwMmQyZjZjZCIsImMiOjR9)
 
+Reporte dinámico de ventas: ingresos totales, ventas por producto a lo largo del tiempo, rentabilidad y desempeño por vendedor. Sirve a líderes financieros y gerentes de ventas para monitorear resultados e identificar oportunidades de crecimiento.
 
-# 📊 Proyectos Power BI
+<!-- TODO: agregar captura del tablero en docs/financiero.png y descomentar la línea de abajo -->
+<!-- ![Tablero financiero](docs/financiero.png) -->
 
+### Tablero de Recursos Humanos (Power BI)
+[![Ver tablero](https://img.shields.io/badge/Ver%20tablero-%23008080.svg?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMTAyZWMzZWEtMjBlYi00MGViLThmYWYtZDc0MWEyOTFlNTI0IiwidCI6ImYwNWNiMDJkLTM0OTctNGY2Mi1hNmJjLTI4M2EwMmQyZjZjZCIsImMiOjR9)
 
-## Proyectos Realizados en Power BI
+Visualización del personal de una organización: distribución por departamento, antigüedad, rotación y desempeño. Ayuda a los líderes de talento a identificar áreas de mejora.
 
-### Tablero Informe Financiero
-[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-%23008080.svg?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZDdmZjNlYmUtODQyZC00M2NiLTgyYjgtNTBjOTc5YWU2YTM5IiwidCI6ImYwNWNiMDJkLTM0OTctNGY2Mi1hNmJjLTI4M2EwMmQyZjZjZCIsImMiOjR9)
+Más análisis en el repositorio [Portafolio_PowerBI](https://github.com/sistemas-alex/Portafolio_PowerBI).
 
-- **Descripción:** El proyecto se enfoca en crear un reporte financiero dinámico y detallado que analiza las ventas de la organización utilizando Power BI. La visualización muestra datos clave relacionados con las ventas, como ingresos totales, ventas por producto a lo largo del tiempo, rentabilidad y análisis de desempeño de los vendedores. Proporciona a los líderes financieros y gerentes de ventas una herramienta efectiva para monitorear el rendimiento de las ventas, identificar oportunidades de crecimiento y tomar decisiones estratégicas.
+# 💻 Proyectos de desarrollo
 
-### Tablero Informe Recursos Humanos
-[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-%23008080.svg?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMTAyZWMzZWEtMjBlYi00MGViLThmYWYtZDc0MWEyOTFlNTI0IiwidCI6ImYwNWNiMDJkLTM0OTctNGY2Mi1hNmJjLTI4M2EwMmQyZjZjZCIsImMiOjR9)
+### Sistema de gestión de activos fijos (PHP + MySQL)
+[![Ver código](https://img.shields.io/badge/Ver%20c%C3%B3digo-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sistemas-alex/activos)
 
+Programa para controlar activos fijos: ubicación, estado, depreciación y asignación, con búsqueda y filtrado sobre la base de datos de activos.
 
-- **Descripción:** El proyecto se centra en crear una visualización dinámica y detallada de los datos de recursos humanos de la organización utilizando Power BI. Muestra información crucial sobre el personal, como la distribución por departamento, la antigüedad, la rotación y el rendimiento. Proporciona a los líderes de recursos humanos y gerentes una herramienta efectiva para analizar y comprender el panorama general del talento de la organización, identificar áreas de mejora y tomar decisiones estratégicas.
+**Tecnologías:** PHP · MySQL · HTML · CSS · JavaScript
 
+<!-- TODO: agregar capturas o video corto del sistema funcionando -->
 
-# 💻 Proyectos de Programación / Desarrollo
+### Tienda-Angular (Angular 20 + Spring Boot 3.5 + MySQL)
+[![Ver código](https://img.shields.io/badge/Ver%20c%C3%B3digo-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sistemas-alex/Tienda-Angular)
 
-## Proyectos Frontend Web
+Aplicación web para la gestión de productos, con frontend en Angular, API en Spring Boot y base de datos MySQL.
 
-### Aplicación Web – Majovit
+**Tecnologías:** Angular 20 · Java · Spring Boot 3.5 · MySQL
 
-[![Ver en Lovable](https://img.shields.io/badge/Ver%20App%20(Lovable)-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://majovit.lovable.app/)
-[![Ver en GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://sistemas-alex.github.io/majovit/)
+### Aplicación web Majovit (React + Vite)
+[![Ver app](https://img.shields.io/badge/Ver%20app-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://sistemas-alex.github.io/majovit/)
+[![Ver en Lovable](https://img.shields.io/badge/Ver%20app%20(Lovable)-%23FF69B4.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://majovit.lovable.app/)
 
-**Descripción:**  
-Aplicación web frontend desarrollada con **Vite** y **React**. El proyecto fue creado inicialmente utilizando la herramienta **Lovable** como apoyo para la generación de la interfaz. Posteriormente se realizaron ajustes manuales en la estructura del proyecto, la configuración de Vite y el proceso de despliegue para su publicación en **GitHub Pages**.
+Aplicación frontend con diseño moderno y responsive. La interfaz se generó inicialmente con Lovable y luego ajusté a mano la estructura del proyecto, la configuración de Vite y el despliegue en GitHub Pages.
 
-La aplicación cuenta con un diseño moderno, enfoque **responsive** y buenas prácticas de organización del código.
+**Tecnologías:** React · Vite · JavaScript · CSS · GitHub Pages
 
-**Tecnologías utilizadas:**
-- React
-- Vite
-- JavaScript
-- CSS
-- GitHub Pages
+### Tienda en línea con WordPress y e-commerce
+Tienda en línea para Majovit Moda y Estilo, con catálogo de productos y flujo de compra.
 
+**Tecnologías:** WordPress · WooCommerce
 
-## Proyectos Realizados en HTML, PHP, CSS, JavaScript y Wordpress
+<!-- TODO: agregar capturas en docs/tienda-1.png, tienda-2.png (el sitio ya no está en línea) -->
 
-### Página Web Realizada en HTML, JavaScript y CSS
-[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-%23008080.svg?style=for-the-badge&logo=html5&logoColor=white)](https://mitienda.sistemas-majovit.net/)
+### Sitio web responsive para Helados Majovit
+Página web completamente responsive, con diseño moderno y navegación sencilla.
 
-- **Descripción:** El proyecto se centra en crear una página web completamente responsiva para Helados Majovit utilizando HTML, CSS y JavaScript. Ofrece a los usuarios una experiencia de navegación amigable y visualmente atractiva, destacando por su diseño moderno y su facilidad de uso.
+**Tecnologías:** HTML · CSS · JavaScript
 
-### Sistema de Inventario
-[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-%23008080.svg?style=for-the-badge&logo=php&logoColor=white)](https://activos-fijos.sistemas-majovit.net/index.php)
-
-- **Descripción:** Desarrollé un programa de gestión de activos fijos utilizando PHP, HTML, CSS y JavaScript. Permite a los usuarios llevar un control detallado de sus activos fijos, incluyendo información como la ubicación, el estado, la depreciación y la asignación. Implementé funcionalidades de búsqueda y filtrado para facilitar la navegación por la base de datos de activos.
-
-### Mi Página Web
-[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-%23008080.svg?style=for-the-badge&logo=html5&logoColor=white)](https://sistemas-majovit.net/)
-
-- **Descripción:** Mi página web personal muestra mi experiencia y habilidades en el desarrollo de aplicaciones web y soluciones digitales, con una colección de proyectos que reflejan mi compromiso con la excelencia técnica y la innovación.
-
-### Página Web Realizada en Wordpress
-[![Ver Proyecto](https://img.shields.io/badge/Ver%20Proyecto-%23008080.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://tienda.sistemas-majovit.net/)
-
-- **Descripción:** El proyecto se centra en la creación de una tienda en línea para Majovit Moda y Estilo utilizando la plataforma WordPress con integración de e-commerce. Proporciona a los usuarios una experiencia de compra en línea fluida y agradable, destacando la amplia selección de productos de alta calidad que ofrece la tienda.
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sistemas-alex&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sistemas-alex&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sistemas-alex&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sistemas-alex&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sistemas-alex&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sistemas-alex&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- TODO: agregar capturas o publicar el código en GitHub Pages -->
