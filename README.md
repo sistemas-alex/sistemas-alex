@@ -18,8 +18,10 @@ Construyo aplicaciones web y tableros de datos que ayudan a trabajar mejor y a t
   <a href="https://alexanderolmedo.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Portafolio">
   </a>
+  <a href="https://sistemas-majovit.vercel.app/">
+    <img src="https://img.shields.io/badge/Sistemas--Majovit-0891B2?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Sistemas-Majovit">
+  </a>
 </p>
-
 ---
 
 ## 💻 Stack Tecnológico y Herramientas
