@@ -127,6 +127,18 @@ Aplicación web para control de activos fijos, ubicación, estado, asignación, 
 
 **Tecnologías:** PHP · MySQL · HTML · CSS · JavaScript
 
+
+### Sistema de Conciliación Bancaria Automática
+[![Ver app](https://img.shields.io/badge/Ver%20app-0891B2?style=for-the-badge&logo=githubpages&logoColor=white)](https://sistemas-alex.github.io/Sistema-de-Conciliaci-n-Bancaria-Automatica/)
+[![Ver código](https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sistemas-alex/Sistema-de-Conciliaci-n-Bancaria-Automatica)
+
+Aplicación web contable que automatiza el cruce entre extractos bancarios y libros auxiliares (`.xlsx`/`.csv`) localmente en el navegador mediante 5 reglas de auditoría, cálculo exacto en centavos, gráficas interactivas con Chart.js y exportación a Excel y PDF.
+
+**Tecnologías:** JavaScript ES6+ · HTML5 · CSS3 · SheetJS · Chart.js
+
+
+
+
 ### Tienda-Angular (Full Stack)
 [![Ver código](https://img.shields.io/badge/Ver%20c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sistemas-alex/Tienda-Angular)
 
